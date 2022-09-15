@@ -1,7 +1,8 @@
 # Changelog
 
-## [0.4.0](https://github.com/Timmitry/conventional-changelog/compare/0.3.0...0.4.0) (2022-09-15)
+## My old version
 
+- WRONG! formatted changes
 
 ### Features
 
