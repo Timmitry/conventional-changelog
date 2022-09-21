@@ -1,0 +1,11 @@
+---
+name: Continuous Integration
+on:
+  push:
+
+jobs:
+  rspec:
+    name: RSpec
+    runs-on: ubuntu-22.04
+    steps:
+      - run: echo "The CI is running!"
