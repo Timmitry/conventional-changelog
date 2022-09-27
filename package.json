@@ -1,6 +1,6 @@
 {
   "name": "conventional-changelog",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "repository": "git@github.com:Timmitry/conventional-changelog.git",
   "author": "Tim Landwerth <tim.landwerth@posteo.de>",
