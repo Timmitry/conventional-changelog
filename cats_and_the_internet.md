@@ -1,4 +1,4 @@
-<img src="Grumpy_Cat_by_Gage_Skidmore.jpg"
+<img src="images/Grumpy_Cat_by_Gage_Skidmore.jpg"
 title="Grumpy Cat, a pet made famous through an image macro, on stage at VidCon 2014"
 width="240"
 alt="Grumpy Cat, a pet made famous through an image macro, on stage at VidCon 2014" />
